@@ -1,0 +1,7 @@
+COMO OBTENER EL APK (Android 5.1 en adelante)
+1. Crea una cuenta gratis en github.com y un repositorio nuevo (privado si quieres).
+2. Sube TODO el contenido de esta carpeta al repositorio, incluida la carpeta oculta ".github"
+   (en computador: arrastra los archivos a la pagina del repositorio).
+3. Entra a la pestana "Actions" > "Build APK" > "Run workflow". Espera 5-8 minutos.
+4. Abre la ejecucion terminada y descarga "facturas-repuestos-apk" (zip). Dentro esta app-debug.apk.
+5. Pasalo al celular, abrelo y permite "instalar apps de origen desconocido".
